@@ -1,0 +1,6 @@
+Django==1.10.4
+Pillow==3.4.2
+pip==9.0.1
+reportlab==3.3.0
+setuptools==18.0.1
+wheel==0.24.0
